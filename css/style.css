@@ -1,0 +1,17 @@
+body{
+	font-family: "Fredoka One";
+}
+
+.container-fluid{
+	padding: 3% 15%;
+}
+
+#title{
+	background-color: #020202;
+}
+h1{
+	color: #05DE1A;
+	font-family: "Fredoka One";
+	line-height: 1.5;
+	font-size: 3rem;
+}
