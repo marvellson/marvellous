@@ -1,0 +1,30 @@
+nav{
+	margin: 0.5px;
+	padding: 3% 15%;
+	border: 1px solid;
+	border-collapse: 1px;
+
+}
+.container{
+	padding: 10% 30%;
+	background-color: #fbfcfc;
+}
+   .card{
+       width: 400px;
+       height: 400px;
+       box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+  text-align: center;
+      padding: 10% 15%;
+   }
+
+#title{
+	font-family: Helvetica;
+	background-color: #fbfcfc;
+}
+.card-body{
+	 padding: 20% 20%;
+}
+i{
+	
+    padding: 3% 3%;
+}
